@@ -1,7 +1,7 @@
 {
     "name": "weebandung_mobile",
     "short_name": "weebandung_mobile",
-    "start_url": ".",
+    "start_url": "",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
